@@ -1,0 +1,22 @@
+{
+  "name": "szm",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rucola-szm/Szm-project.git"
+  },
+  "author": "Rucola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rucola-szm/Szm-project/issues"
+  },
+  "homepage": "https://github.com/Rucola-szm/Szm-project#readme"
+}
